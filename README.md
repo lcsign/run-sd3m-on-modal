@@ -121,6 +121,9 @@ run-sd3m-on-modal/
 ├─ .gitignore
 └─ output/             # 本地输出（gitignore）
 ```
+8.14 新增更新；
+Gradio UI：支持图形界面上传文件、查看推理结果
+运行ui.py
 
 ---
 
